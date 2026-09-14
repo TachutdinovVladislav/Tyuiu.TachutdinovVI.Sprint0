@@ -5,6 +5,7 @@
     <projectFile>Tyuiu.TachutdinovVI.Sprint0.Task1.V0/Tyuiu.TachutdinovVI.Sprint0.Task1.V0.csproj</projectFile>
     <projectFile>Tyuiu.TachutdinovVI.Sprint0.Task2.V0/Tyuiu.TachutdinovVI.Sprint0.Task2.V0.csproj</projectFile>
     <projectFile>Tyuiu.TachutdinovVI.Sprint0.Task3.V0/Tyuiu.TachutdinovVI.Sprint0.Task3.V0.csproj</projectFile>
+    <projectFile>Tyuiu.TachutdinovVI.Sprint0.Task4.V0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -53,6 +54,9 @@
     <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task3.V0.Lib/Class1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task3.V0.Test/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task3.V0/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Test/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Immediate Window" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
@@ -62,62 +66,65 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000000044" />
-      <entry key="MS500" value="1.001352645964952" />
-      <entry key="S2" value="1.1919465854653453" />
-      <entry key="S5" value="1.6165899237381942" />
-      <entry key="S10" value="2.739637115133707" />
-      <entry key="S30" value="8.257806938859641" />
-      <entry key="S60" value="14.47059406958056" />
-      <entry key="M2" value="22.964824991846633" />
-      <entry key="M5" value="33.71929733281341" />
-      <entry key="M10" value="39.21002769363389" />
-      <entry key="M15" value="41.922043095148986" />
-      <entry key="M30" value="52.56056725841797" />
-      <entry key="H1" value="78.40563229768058" />
-      <entry key="H2" value="110.46668568578238" />
-      <entry key="H4" value="136.24185465685022" />
-      <entry key="D1" value="169.45940473129198" />
-      <entry key="W1" value="213.88387931648668" />
+      <entry key="MS100" value="5.279463760198035E-78" />
+      <entry key="MS500" value="3.5036277916787425E-16" />
+      <entry key="S2" value="1.3681366928725843E-4" />
+      <entry key="S5" value="0.02847426474981959" />
+      <entry key="S10" value="0.1695720316887892" />
+      <entry key="S30" value="1.372013344045888" />
+      <entry key="S60" value="6.437007760429437" />
+      <entry key="M2" value="17.976300322438643" />
+      <entry key="M5" value="41.52203857945402" />
+      <entry key="M10" value="63.37163670147944" />
+      <entry key="M15" value="75.7288712585381" />
+      <entry key="M30" value="97.98741173731433" />
+      <entry key="H1" value="130.12171036719772" />
+      <entry key="H2" value="167.30228588495643" />
+      <entry key="H4" value="197.4349540859518" />
+      <entry key="D1" value="236.06206202261507" />
+      <entry key="W1" value="281.63699053042944" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.6851777426248985E-82" />
-      <entry key="MS500" value="5.421821486008149E-17" />
-      <entry key="S2" value="8.580968418127162E-5" />
-      <entry key="S5" value="0.023627323168378365" />
-      <entry key="S10" value="0.15371457533183547" />
-      <entry key="S30" value="0.5577878324134361" />
-      <entry key="S60" value="0.9420162882299239" />
-      <entry key="M2" value="1.5036302583768875" />
-      <entry key="M5" value="2.2137470012678038" />
-      <entry key="M10" value="2.567708198567359" />
-      <entry key="M15" value="2.727726849741174" />
-      <entry key="M30" value="3.2136639938781957" />
-      <entry key="H1" value="4.2779107123887545" />
-      <entry key="H2" value="5.564321794546393" />
-      <entry key="H4" value="6.588243658844866" />
-      <entry key="D1" value="7.799913831564336" />
-      <entry key="W1" value="8.64176922981977" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000026192" />
+      <entry key="S2" value="1.0012721636633113" />
+      <entry key="S5" value="1.0694731827380473" />
+      <entry key="S10" value="1.2635964010280956" />
+      <entry key="S30" value="1.7094692937766591" />
+      <entry key="S60" value="2.4029225736374293" />
+      <entry key="M2" value="3.8398914285985017" />
+      <entry key="M5" value="6.466232028493792" />
+      <entry key="M10" value="8.588121048964247" />
+      <entry key="M15" value="9.696662462928394" />
+      <entry key="M30" value="11.366858479420937" />
+      <entry key="H1" value="13.121734346181295" />
+      <entry key="H2" value="14.857369858651593" />
+      <entry key="H4" value="16.184101443416836" />
+      <entry key="D1" value="17.72261942649903" />
+      <entry key="W1" value="18.62981243855998" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.125367586172176E-4" />
-      <entry key="MS500" value="0.18432914503207853" />
-      <entry key="S2" value="0.7375452469424837" />
-      <entry key="S5" value="1.3316403131720744" />
-      <entry key="S10" value="2.683973331996273" />
-      <entry key="S30" value="8.703709052283731" />
-      <entry key="S60" value="15.326559320581618" />
-      <entry key="M2" value="24.400069222764213" />
-      <entry key="M5" value="35.89148779372356" />
-      <entry key="M10" value="41.75318367680906" />
-      <entry key="M15" value="44.63228299121524" />
-      <entry key="M30" value="55.76402436009013" />
-      <entry key="H1" value="82.67693539382172" />
-      <entry key="H2" value="116.02680086472824" />
-      <entry key="H4" value="142.82763567101168" />
-      <entry key="D1" value="177.2588264829626" />
-      <entry key="W1" value="222.52555732678292" />
+      <entry key="MS100" value="3.1200487463294274E-6" />
+      <entry key="MS500" value="0.07921953262810365" />
+      <entry key="S2" value="0.5315933211789794" />
+      <entry key="S5" value="0.8615465221672495" />
+      <entry key="S10" value="1.2830708802709234" />
+      <entry key="S30" value="3.0028720744890087" />
+      <entry key="S60" value="8.773252818393365" />
+      <entry key="M2" value="21.749350611009802" />
+      <entry key="M5" value="47.930435681912925" />
+      <entry key="M10" value="71.91564194739192" />
+      <entry key="M15" value="85.390408315069" />
+      <entry key="M30" value="109.33222165745842" />
+      <entry key="H1" value="143.23000352939124" />
+      <entry key="H2" value="182.15172907417863" />
+      <entry key="H4" value="213.61462940259062" />
+      <entry key="D1" value="253.78384345625676" />
+      <entry key="W1" value="300.26666180118883" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2,
@@ -235,6 +242,27 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Tyuiu.TachutdinovVI.Sprint0.Task4.V0" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -256,7 +284,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Task1" />
     <MESSAGE value="Task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task2" />
+    <MESSAGE value="Task3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
