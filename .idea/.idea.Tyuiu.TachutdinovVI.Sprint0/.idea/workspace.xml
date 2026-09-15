@@ -7,6 +7,7 @@
     <projectFile>Tyuiu.TachutdinovVI.Sprint0.Task3.V0/Tyuiu.TachutdinovVI.Sprint0.Task3.V0.csproj</projectFile>
     <projectFile>Tyuiu.TachutdinovVI.Sprint0.Task4.V0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.csproj</projectFile>
     <projectFile>Tyuiu.TachutdinovVI.Sprint0.Task5.V0/Tyuiu.TachutdinovVI.Sprint0.Task5.V0.csproj</projectFile>
+    <projectFile>Tyuiu.TachutdinovVI.Sprint0.Task6.V0/Tyuiu.TachutdinovVI.Sprint0.Task6.V0.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -20,7 +21,17 @@
   <component name="ChangeListManager">
     <list default="true" id="ca44d288-e8ce-46d2-9383-367a747969dd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Tyuiu.TachutdinovVI.Sprint0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tyuiu.TachutdinovVI.Sprint0/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/ref/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/ref/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/refint/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib/obj/Debug/net8.0/refint/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Test/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Test/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Test/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Test/bin/Debug/net8.0/Tyuiu.TachutdinovVI.Sprint0.Task4.V0.Lib.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +73,9 @@
     <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task5.V0.Lib/Class1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task5.V0.Test/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task5.V0/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task6.V0.Lib/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task6.V0.Test/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task6.V0/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Immediate Window" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
@@ -71,61 +85,61 @@
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000055653022968" />
-      <entry key="S2" value="1.0714427842959955" />
-      <entry key="S5" value="1.5591512649041344" />
-      <entry key="S10" value="2.414229596618779" />
-      <entry key="S30" value="5.644625456841007" />
-      <entry key="S60" value="9.451893405432111" />
-      <entry key="M2" value="13.712295842009377" />
-      <entry key="M5" value="18.21681110156219" />
-      <entry key="M10" value="24.803497182146767" />
-      <entry key="M15" value="34.770936429593625" />
-      <entry key="M30" value="65.46350720965857" />
-      <entry key="H1" value="111.64871144627563" />
-      <entry key="H2" value="164.47205405381737" />
-      <entry key="H4" value="208.70367877156545" />
-      <entry key="D1" value="265.35893545555115" />
-      <entry key="W1" value="314.8351569090679" />
+      <entry key="MS100" value="1.0000017192415556" />
+      <entry key="MS500" value="1.0822565968618838" />
+      <entry key="S2" value="1.8463161888173185" />
+      <entry key="S5" value="2.5266562729126987" />
+      <entry key="S10" value="3.781053466249122" />
+      <entry key="S30" value="9.010594213215946" />
+      <entry key="S60" value="13.653611016743987" />
+      <entry key="M2" value="23.63128432380514" />
+      <entry key="M5" value="61.506996258775054" />
+      <entry key="M10" value="107.88817308112056" />
+      <entry key="M15" value="134.97579292742907" />
+      <entry key="M30" value="172.1817828112335" />
+      <entry key="H1" value="195.9082691783654" />
+      <entry key="H2" value="209.4027280835062" />
+      <entry key="H4" value="220.1394712535189" />
+      <entry key="D1" value="363.7172631614136" />
+      <entry key="W1" value="522.8020230858934" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.4015829011215374E-180" />
-      <entry key="MS500" value="1.0698521360494863E-36" />
-      <entry key="S2" value="1.0170233861968397E-9" />
-      <entry key="S5" value="2.5289041889844867E-4" />
-      <entry key="S10" value="0.015902528695099043" />
-      <entry key="S30" value="0.2514714750922324" />
-      <entry key="S60" value="0.5014693162374438" />
-      <entry key="M2" value="0.7081614528199986" />
-      <entry key="M5" value="0.9256964565598846" />
-      <entry key="M10" value="1.856195367407304" />
-      <entry key="M15" value="3.39145572315316" />
-      <entry key="M30" value="7.625024420788788" />
-      <entry key="H1" value="12.52685592506807" />
-      <entry key="H2" value="16.833416275910682" />
-      <entry key="H4" value="19.914621572473283" />
-      <entry key="D1" value="23.297151031551014" />
-      <entry key="W1" value="24.56606085781063" />
+      <entry key="MS100" value="4.737785066008361E-303" />
+      <entry key="MS500" value="3.4295774884756374E-61" />
+      <entry key="S2" value="8.649885701380777E-16" />
+      <entry key="S5" value="1.2962459747727497E-6" />
+      <entry key="S10" value="0.001578570847949824" />
+      <entry key="S30" value="0.1867585093457581" />
+      <entry key="S60" value="0.7108620570515493" />
+      <entry key="M2" value="1.9326783993728938" />
+      <entry key="M5" value="5.256371885296009" />
+      <entry key="M10" value="8.41258180075396" />
+      <entry key="M15" value="10.063850527944442" />
+      <entry key="M30" value="12.198536683897457" />
+      <entry key="H1" value="13.501633821824369" />
+      <entry key="H2" value="14.228712973060667" />
+      <entry key="H4" value="14.92712068121351" />
+      <entry key="D1" value="26.64765678591479" />
+      <entry key="W1" value="37.25842612536124" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="6.857640994814438E-4" />
-      <entry key="MS500" value="0.23293605715242408" />
-      <entry key="S2" value="0.7442414722527319" />
-      <entry key="S5" value="1.3545281622178016" />
-      <entry key="S10" value="2.2754425714210407" />
-      <entry key="S30" value="5.774181049676472" />
-      <entry key="S60" value="9.857622333152406" />
-      <entry key="M2" value="14.356579554195813" />
-      <entry key="M5" value="19.11086223532351" />
-      <entry key="M10" value="26.638495306937454" />
-      <entry key="M15" value="38.142729284775676" />
-      <entry key="M30" value="73.07072934783342" />
-      <entry key="H1" value="124.1616819197109" />
-      <entry key="H2" value="181.29616884419258" />
-      <entry key="H4" value="228.6127647194451" />
-      <entry key="D1" value="288.65498581404546" />
-      <entry key="W1" value="339.40103683809235" />
+      <entry key="MS100" value="0.959265779772254" />
+      <entry key="MS500" value="1.066680112911424" />
+      <entry key="S2" value="1.7801705915739132" />
+      <entry key="S5" value="2.460406492938966" />
+      <entry key="S10" value="3.7073731678149864" />
+      <entry key="S30" value="9.117875836281165" />
+      <entry key="S60" value="14.28981361819165" />
+      <entry key="M2" value="25.48017880184556" />
+      <entry key="M5" value="66.66837093439186" />
+      <entry key="M10" value="116.21925534105596" />
+      <entry key="M15" value="144.97253918915868" />
+      <entry key="M30" value="184.33815377635187" />
+      <entry key="H1" value="209.38610777214524" />
+      <entry key="H2" value="223.61877669671463" />
+      <entry key="H4" value="235.0599589515122" />
+      <entry key="D1" value="390.36319804342355" />
+      <entry key="W1" value="560.0601118120846" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -289,6 +303,27 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Tyuiu.TachutdinovVI.Sprint0.Task6.V0" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Tyuiu.TachutdinovVI.Sprint0.Task6.V0/Tyuiu.TachutdinovVI.Sprint0.Task6.V0.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -312,7 +347,8 @@
     <MESSAGE value="Task2" />
     <MESSAGE value="Task3" />
     <MESSAGE value="Task4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task4" />
+    <MESSAGE value="Task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
